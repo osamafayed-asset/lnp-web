@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd9e65ed.css",
+    "main.js": "/static/js/main.9c4bdb69.js",
+    "static/js/453.acaecc94.chunk.js": "/static/js/453.acaecc94.chunk.js",
+    "static/media/icomoon.svg?wu07us": "/static/media/icomoon.ecfda868184dbb51c364.svg",
+    "static/media/UAE-Pass_Banner_ar.jpg": "/static/media/UAE-Pass_Banner_ar.bd69b85a40139477991f.jpg",
+    "static/media/slider2.jpg": "/static/media/slider2.c49174055ae2809e21e6.jpg",
+    "static/media/slider1.jpg": "/static/media/slider1.e2eaf40be2f912bae73c.jpg",
+    "static/media/slider3.jpg": "/static/media/slider3.feb58fb2f5491cf7e7b8.jpg",
+    "static/media/icomoon.eot?wu07us": "/static/media/icomoon.f420d7530b9ad996983b.eot",
+    "static/media/icomoon.woff?wu07us": "/static/media/icomoon.2212eed9b370f832ef09.woff",
+    "static/media/icomoon.ttf?wu07us": "/static/media/icomoon.3ab9692ab871f3b00cd3.ttf",
+    "static/media/uae_logo_ar.jpg": "/static/media/uae_logo_ar.73ec8b122574ec75dffa.jpg",
+    "static/media/HelveticaNeueW23-Bd.woff": "/static/media/HelveticaNeueW23-Bd.cfe487903b2f825209be.woff",
+    "static/media/HelveticaNeueW23-Reg.woff": "/static/media/HelveticaNeueW23-Reg.146379b0d5e6de6ed0f1.woff",
+    "static/media/search-img.png": "/static/media/search-img.f338ed1213518eb89e18.png",
+    "static/media/emp-login.png": "/static/media/emp-login.c311c175f546cdf8aee9.png",
+    "static/media/Search.svg": "/static/media/Search.08e9e32cac5bddcde651241a3163548b.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/faq.svg": "/static/media/faq.7ee3c8f457417be672d42bbb204bd7f8.svg",
+    "static/media/user.svg": "/static/media/user.efc5c7e97cd6ba57a67ff9c0057d3e61.svg",
+    "index.html": "/index.html",
+    "main.bd9e65ed.css.map": "/static/css/main.bd9e65ed.css.map",
+    "main.9c4bdb69.js.map": "/static/js/main.9c4bdb69.js.map",
+    "453.acaecc94.chunk.js.map": "/static/js/453.acaecc94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd9e65ed.css",
+    "static/js/main.9c4bdb69.js"
+  ]
+}
